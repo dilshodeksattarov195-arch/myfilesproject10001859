@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productserify",
+        "uuid": 17991402,
+        "checksum": "x2whvj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
